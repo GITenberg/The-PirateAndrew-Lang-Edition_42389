@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42389#The-PirateAndrew-Lang-Edition
 gutenberg_issued: '2013-03-23'
 gutenberg_type: Text
 identifiers:
