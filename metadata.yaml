@@ -1,0 +1,50 @@
+_repo: The-PirateAndrew-Lang-Edition_42389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Shetland (Scotland) -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Orkney (Scotland) -- Fiction'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+title: 'The Pirate
+
+  Andrew Lang Edition'
+url: http://www.gutenberg.org/ebooks/42389
